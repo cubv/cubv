@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cris
-- 👀 I’m interested in blockchain, python and webscraping
+- 👀 I’m interested in Blockchain, Python and Webscraping
 - 🌱 I’m currently learning Machine learning
 
 <!---
